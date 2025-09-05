@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m Raghav Anand, a Software Development Engineer at EPAM Systems with a strong focus on backend development and cloud computing.<br>💻 Skilled in Java, Spring Boot, Microservices, and AWS, I enjoy building scalable and secure applications.<br>🌐 Experienced in leading teams and delivering production-grade systems with clean architecture and performance in mind.<br>📚 Currently exploring advanced cloud-native architectures and improving expertise in distributed systems.
+🚀 I’m Raghav Anand, a Software Development Engineer at EPAM Systems with a strong focus on backend development and cloud.<br>💻 Skilled in Java, Spring Boot, Microservices, and AWS, I enjoy building scalable and secure applications.<br>🌐 Experienced in leading teams and delivering production-grade systems with clean architecture and performance in mind.<br>📚 Currently exploring advanced cloud-native architectures and improving expertise in distributed systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-anand-33bb0a249/) 
